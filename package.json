@@ -1,0 +1,14 @@
+{
+  "name": "vite-include-file",
+  "version": "1.0.0",
+  "description": "vite plugin to include external files into your html files using a custom <include> tag, like server side includes",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "confor@iru.cl",
+  "license": "MIT",
+  "peerDependencies": {
+    "vite": "^6.0"
+  }
+}
